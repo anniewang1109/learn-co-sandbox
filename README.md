@@ -1,11 +1,24 @@
-Hi! 👋
+command line:
 
-You've opened the IDE Sandbox. 🎉
+pwd - print working directory (directory==folder)
 
-The Sandbox is an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code when you're not working on a "lab" (labs open the IDE In Browser).
+ls--> list (will tell you what files and folders are in the directory)
 
-The work you do in the Sandbox will be saved from lesson to lesson, and is automatically saved on your behalf to a repository in your GitHub account called `learn-co-sandbox`.
+mikdir nameGoesHere--> creates a folder/directory 
 
-Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
+cd- change directory
 
-To learn more about the Sandbox, please visit http://help.learn.co/ide-in-browser#sandbox.
+touch filename.txt --> creates a new file 
+
+rm filename.txt --> delete a file (removed )
+
+mv (file/directory want to move [space] the directory you want to move it into)
+
+mv(filename [space] renamefilename) --> rename existing file/directory (don't have to be in the same directory, just write the path)
+
+cp fileyouwanttocopy [space] renamecopiedfile
+
+vi filename --> edit file 
+--> i (to edit)
+--> esc button (to stop editting)
+--> :wq (quit and save changes)
